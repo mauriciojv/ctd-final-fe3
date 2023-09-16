@@ -135,7 +135,8 @@ footer > p{
   margin: 0 auto;
   padding: 3rem;
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #333;
+  color: #fff;
   padding: 20px;
 }
 
